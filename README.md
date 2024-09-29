@@ -23,3 +23,4 @@ This repository contains an Android app that demonstrates the implementation of 
 
 
 ## Screenshots
+![image](https://github.com/FirmanTaufik/JetpackComposeMusicAlbumExoPlayer/blob/final/image.jpg)
