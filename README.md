@@ -1,4 +1,3 @@
-# Media3 Notification type exploration and simple music player implementation
 
 ## Overview
 This repository contains an Android app that demonstrates the implementation of Media3, particularly focusing on MediaSessionService and notification handling and retrive response Api with Jetpack Compose.
@@ -23,3 +22,4 @@ This repository contains an Android app that demonstrates the implementation of 
 
 
 ## Screenshots
+![image](https://github.com/FirmanTaufik/JetpackComposeMusicAlbumExoPlayer/blob/final/image.jpg)
