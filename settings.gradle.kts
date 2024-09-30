@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NotificationsTypes"
+rootProject.name = "MusicApp"
 include(":app")
  
